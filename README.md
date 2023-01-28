@@ -3,9 +3,9 @@ challenge with python
 
 reto hecho por la comunidad de mouredev
 
-#Reto 6
+# Reto 6
 
-INVIRTIENDO CADENAS
+## INVIRTIENDO CADENAS
 
  Dificultad: FÁCIL
  
